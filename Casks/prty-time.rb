@@ -1,6 +1,6 @@
 cask "prty-time" do
-  version "0.11.0"
-  sha256 "255938135660b6cf3d3fd5e44595c3ff16728d508e103640594c8f1ffe5e74a8"
+  version "0.12.0"
+  sha256 "e7085497909caef18d6bad3bd874c272b0b0248e6b7886ae2b6b986ecb655690"
 
   url "https://github.com/fragkakis/prty-time/releases/download/v#{version}/PRty-Time.zip"
   name "PRty Time"
